@@ -25,17 +25,17 @@ C#, .NET Framework 4.5, WPF, LINQ, XML
 [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/SGet/releases/tag/v1.0)
 
 ***
-> # The Dot Net Download Manager
-
-####### Project Description
-A fast and user friendly download manager that aims to keep it simple.
-The aim is to provide all the important features of commercial download managers while keeping it simple, functional and user friendly.
-The application is written in C# WPF
+> ## `The Dot Net Download Manager`
+> ##### `Open Source Project Description`
+> `The Dot Net Download Manager Archive
+> A fast and user friendly download manager that aims to keep it simple.
+> The aim is to provide all the important features of commercial download managers while keeping it simple, functional and user friendly.
+The application is written in C# WPF`
 
  [![Build SGet Download Manager](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://archive.codeplex.com/?p=dotnetdownloader) 
 
 [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://codeplexarchive.blob.core.windows.net/archive/projects/dotnetdownloader/dotnetdownloader.zip)
 
-> # Some Screenshots
+> #### `Some Screenshots`
   
- [![Build A Fast CefSharp New Chromium Browser Downloader](https://archive.codeplex.com/projects/dotnetdownloader/319be0c7-8aff-42e4-b8e8-137cc8ecfa73)](https://github.com/CreateDownloader/SGet)
+ [![Build dotnetdownloader](https://archive.codeplex.com/projects/dotnetdownloader/319be0c7-8aff-42e4-b8e8-137cc8ecfa73)](https://github.com/CreateDownloader/SGet)
