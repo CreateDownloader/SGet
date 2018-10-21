@@ -22,4 +22,4 @@ C#, .NET Framework 4.5, WPF, LINQ, XML
   
  [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateDownloader/SGet/master/SGet.PNG)](https://github.com/CreateDownloader/SGet)
 
-[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/SGet/releases/tag/v65.0.0-pre01)
+[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/SGet/releases/tag/v1.0)
