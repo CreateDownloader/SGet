@@ -25,17 +25,15 @@ C#, .NET Framework 4.5, WPF, LINQ, XML
 [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/SGet/releases/tag/v1.0)
 
 ***
-> ## `The Dot Net Download Manager`
+> ## `MyDownloader: A Multi-thread C# Segmented Download Manager`
 > ##### `Open Source Project Description`
-> `The Dot Net Download Manager Archive
-> A fast and user friendly download manager that aims to keep it simple.
-> The aim is to provide all the important features of commercial download managers while keeping it simple, functional and user friendly.
-The application is written in C# WPF`
+> `Sample application that manages multiple segmented downloads and supports HTTP, FTP and YouTube video downloads`
 
- [![Build SGet Download Manager](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://archive.codeplex.com/?p=dotnetdownloader) 
+ [![Build SGet Download Manager](https://user-images.githubusercontent.com/12082147/37241993-9d34faec-246a-11e8-8188-dc66547023bc.png)](https://www.codeproject.com/Articles/21053/MyDownloader-A-Multi-thread-C-Segmented-Download-M) 
 
-[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://codeplexarchive.blob.core.windows.net/archive/projects/dotnetdownloader/dotnetdownloader.zip)
+[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://www.codeproject.com/script/Articles/Download.aspx?file=/KB/IP/MyDownloader/MyDownloader_src.zip&rp=https://www.codeproject.com/)
 
 > #### `Some Screenshots`
+   [![Build dotnetdownloader](https://www.codeproject.com/KB/IP/MyDownloader/MyDwnloader1.png)](https://www.codeproject.com/Articles/21053/MyDownloader-A-Multi-thread-C-Segmented-Download-M)
   
  [![Build dotnetdownloader](https://raw.githubusercontent.com/CreateDownloader/SGet/master/dotnetdownloader.png)](https://raw.githubusercontent.com/CreateDownloader/SGet/master/dotnetdownloader.zip)
