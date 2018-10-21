@@ -20,6 +20,6 @@ C#, .NET Framework 4.5, WPF, LINQ, XML
 
 > # Some Screenshots
   
- [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/master/Public/Screenshots%20CefSharp%20v65.0.0-pre01%20Browser.PNG)](https://bitbucket.org/mohamedosama914/acefsharpchromiumbrowserdesktop)
+ [![Build A Fast CefSharp New Chromium Browser Downloader](https://raw.githubusercontent.com/CreateDownloader/SGet/master/SGet.PNG)](https://github.com/CreateDownloader/SGet)
 
-[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/ACefSharpChromiumBrowserNewWindowsDesktopPC/releases/tag/v65.0.0-pre01)
+[![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/SGet/releases/tag/v65.0.0-pre01)
